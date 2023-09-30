@@ -119,3 +119,4 @@ For completeness and transparency, I will keep them here.
 - whenever you feel like you need a `[vh]space`, think again; you probably do not need it
 	- want to space out two parts of an equation? use align
     - `\quad` and `\qquad` are also great alternatives to provide typographically sound spacing
+- use linewidth not textwidth
