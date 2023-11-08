@@ -1,1 +1,23 @@
 <link rel="stylesheet" href="/styles.css">
+
+
+{{- /* Citation Metadata */}}
+{{- if and .Title .Date .Params.pdf .Params.language (or .Params.author site.Params.author) }}
+<meta name="citation_title" content="{{ .Title }}">
+<meta name="citation_date" content="{{ .Date.Format "2006/02/01" }}">
+<meta name="citation_publication_date" content="{{ .Date.Format "2006/02/01" }}">
+<meta name="citation_pdf_url" content="{{ .Params.pdf }}">
+<meta name="citation_abstract" content="">
+<meta name="citation_language" content="{{ .Params.language }}">
+{{- if or .Params.author site.Params.author }}
+{{- $author := (.Params.author | default site.Params.author) }}
+{{- $author_type := (printf "%T" $author) }}
+{{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
+{{- range $author }}
+<meta name="citation_author" content="{{ . }}">
+{{- end }}
+{{- else }}
+<meta name="citation_author" content="{{ $author }}">
+{{- end }}
+{{- end }}
+{{- end -}}
