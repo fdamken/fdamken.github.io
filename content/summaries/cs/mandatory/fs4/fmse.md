@@ -1,6 +1,9 @@
 ---
-title: "Formale Methoden im Softwareentwurf by Fabian Damken (english)"
+title: "Formale Methoden im Softwareentwurf (english)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/fmse/fmse-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](fmse-summary.pdf)

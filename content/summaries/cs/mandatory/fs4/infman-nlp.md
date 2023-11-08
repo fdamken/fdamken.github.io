@@ -1,6 +1,9 @@
 ---
-title: "Information Management: Natural Language Processing by Fabian Damken (english)"
+title: "Information Management: Natural Language Processing (english)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/infman-nlp/infman-nlp-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](infman-nlp-summary.pdf)

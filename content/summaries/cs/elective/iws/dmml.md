@@ -1,6 +1,9 @@
 ---
-title: "Data Mining und Maschinelles Lernen von Fabian Damken (deutsch)"
+title: "Data Mining und Maschinelles Lernen (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/elective/iws/dmml/dmml-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](dmml-summary.pdf)

@@ -1,6 +1,9 @@
 ---
-title: "Informationsmanagement: Datenbanken von Fabian Damken (deutsch)"
+title: "Informationsmanagement: Datenbanken (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/infman-db/infman-db-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](infman-db-summary.pdf)

@@ -1,6 +1,9 @@
 ---
-title: "Mathematik 3 (Stochastik/Statistik) von Fabian Damken (deutsch)"
+title: "Mathematik 3 (Stochastik/Statistik) (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/mathe3-stochastik/mathe3-stochastik-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](mathe3-stochastik-summary.pdf)

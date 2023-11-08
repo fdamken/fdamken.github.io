@@ -1,6 +1,9 @@
 ---
-title: "Funktionale und objektorientierte Programmierkonzepte von Fabian Damken (deutsch)"
+title: "Funktionale und objektorientierte Programmierkonzepte (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs1/fop/fop-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](fop-summary.pdf)
