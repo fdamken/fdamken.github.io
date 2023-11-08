@@ -2,7 +2,7 @@
 title: "Theoretische Physik 2: Quantenmechanik"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2021-11-09
 pdf: https://fabian.damken.net/summaries/physics/mandatory/fs3/theo2/theo2-summary.pdf
 language: de
 ---

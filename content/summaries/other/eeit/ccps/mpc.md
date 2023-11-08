@@ -2,7 +2,7 @@
 title: "Model-Predictive Control and Machine Learning"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2022-03-02
 pdf: https://fabian.damken.net/summaries/other/eeit/ccps/mpc/mpc-summary.pdf
 language: en
 ---

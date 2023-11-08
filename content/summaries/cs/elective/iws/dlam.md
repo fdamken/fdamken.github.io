@@ -2,7 +2,7 @@
 title: "Deep Learning: Architectures and Methods"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2021-07-20
 pdf: https://fabian.damken.net/summaries/cs/elective/iws/dlam/dlam-summary.pdf
 language: en
 ---

@@ -2,7 +2,7 @@
 title: "Optimization of Static and Dynamic Systems"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2020-06-20
 pdf: https://fabian.damken.net/summaries/cs/elective/ce/opt/opt-summary.pdf
 language: en
 ---

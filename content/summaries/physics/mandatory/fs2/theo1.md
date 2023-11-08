@@ -2,7 +2,7 @@
 title: "Theoretische Physik 1: Klassische Mechanik"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2021-11-09
 pdf: https://fabian.damken.net/summaries/physics/mandatory/fs2/theo1/theo1-summary.pdf
 language: de
 ---

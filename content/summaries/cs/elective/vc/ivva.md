@@ -2,7 +2,7 @@
 title: "Informationsvisualisierung und Visual Analytics"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2022-02-17
 pdf: https://fabian.damken.net/summaries/cs/elective/vc/ivva/ivva-summary.pdf
 language: de
 ---

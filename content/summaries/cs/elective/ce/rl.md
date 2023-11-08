@@ -2,7 +2,7 @@
 title: "Reinforcement Learning"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2022-07-24
 pdf: https://fabian.damken.net/summaries/cs/elective/ce/rl/rl-summary.pdf
 language: en
 ---
