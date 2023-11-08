@@ -4,7 +4,7 @@ draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/physics/mandatory/fs2/theo1/theo1-summary.pdf
-language: deutsch
+language: de
 ---
 
 [![Download (Light Mode)](/download.png)](theo1-summary.pdf)

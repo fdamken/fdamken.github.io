@@ -4,7 +4,7 @@ draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/elective/ce/gdr/gdr-summary.pdf
-language: deutsch
+language: de
 ---
 
 [![Download (Light Mode)](/download.png)](gdr-summary.pdf)
