@@ -1,6 +1,9 @@
 ---
-title: "Informationsvisualisierung und Visual Analytics von Fabian Damken (deutsch)"
+title: "Informationsvisualisierung und Visual Analytics (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/elective/vc/ivva/ivva-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](ivva-summary.pdf)

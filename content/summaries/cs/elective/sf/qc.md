@@ -1,6 +1,9 @@
 ---
-title: "Quantum Computing by Fabian Damken (english)"
+title: "Quantum Computing (english)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/elective/sf/qc/qc-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](qc-summary.pdf)

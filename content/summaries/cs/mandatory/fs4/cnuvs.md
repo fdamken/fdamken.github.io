@@ -1,6 +1,9 @@
 ---
-title: "Computer Netzwerke und verteilte Systeme von Fabian Damken (deutsch)"
+title: "Computer Netzwerke und verteilte Systeme (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/cnuvs/cnuvs-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](cnuvs-summary.pdf)
@@ -9,6 +12,7 @@ draft: false
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2023-11-08` cnuvs: typo fixes (#21)
 - `2023-07-15` cnuvs: add abbreviations (#19)
 - `2023-07-15` cnuvs: routing layer number fix (#20)
 - `2022-10-18` Dark mode (re) (#15)

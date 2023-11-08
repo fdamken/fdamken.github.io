@@ -1,6 +1,9 @@
 ---
-title: "Reinforcement Learning by Fabian Damken (english)"
+title: "Reinforcement Learning (english)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/elective/ce/rl/rl-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](rl-summary.pdf)

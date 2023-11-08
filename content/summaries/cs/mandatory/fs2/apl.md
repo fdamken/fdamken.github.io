@@ -1,6 +1,9 @@
 ---
-title: "Aussagenlogik und Prädikatenlogik von Fabian Damken (deutsch)"
+title: "Aussagenlogik und Prädikatenlogik (deutsch)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/mandatory/fs2/apl/apl-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](apl-summary.pdf)

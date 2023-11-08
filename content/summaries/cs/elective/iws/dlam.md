@@ -1,6 +1,9 @@
 ---
-title: "Deep Learning: Architectures and Methods by Fabian Damken (english)"
+title: "Deep Learning: Architectures and Methods (english)"
 draft: false
+author: "Fabian Damken"
+date: 2019-08-15
+pdf: https://fabian.damken.net/summaries/cs/elective/iws/dlam/dlam-summary.pdf
 ---
 
 [![Download (Light Mode)](/download.png)](dlam-summary.pdf)
