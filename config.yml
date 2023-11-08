@@ -54,7 +54,6 @@ params:
   profileMode:
     enabled: true
     title: Fabian Damken
-    subtitle: "Get in touch:"
     imageUrl: me.jpg
     imageWidth: 500
     imageHeight: " "
@@ -64,32 +63,40 @@ params:
         url: summaries
 
   socialIcons:
+#    - name: cv
+#      url: /static/resume.pdf
     - name: linkedin
       url: "https://linkedin.com/in/fdamken"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=EM-y6hYAAAAJ"
     - name: github
       url: "https://github.com/fdamken"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/4907452"
     - name: twitter
       url: "https://twitter.com/fabian_damken"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/4907452"
     - name: email
       url: "mailto:fabian@damken.net?subject=Contact via fabian.damken.net&body=Hi%20Fabian%2C%0A%0A%E2%80%A6"
 
 menu:
   main:
+#    - identifier: resume
+#      name: Résumé
+#      url: /static/resume.pdf
+#      weight: 10
     - identifier: latex
       name: LaTeX
       url: /latex
-      weight: 10
+      weight: 20
     - identifier: proof-of-work
       name: Proof of Work
       url: /proof-of-work
-      weight: 20
+      weight: 30
     - identifier: summaries
       name: Summaries
       url: /summaries
-      weight: 30
+      weight: 40
     - identifier: search
       name: Search
       url: /search
-      weight: 40
+      weight: 50
