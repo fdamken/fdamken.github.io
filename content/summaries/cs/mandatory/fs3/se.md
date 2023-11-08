@@ -1,9 +1,10 @@
 ---
-title: "Software Engineering (deutsch)"
+title: "Software Engineering"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs3/se/se-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](se-summary.pdf)

@@ -1,9 +1,10 @@
 ---
-title: "Modellierung, Spezifikation und Semantik (deutsch)"
+title: "Modellierung, Spezifikation und Semantik"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs3/moses/moses-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](moses-summary.pdf)

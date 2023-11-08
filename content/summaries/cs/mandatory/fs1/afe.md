@@ -1,9 +1,10 @@
 ---
-title: "Automaten, formale Sprachen und Entscheidbarkeit (deutsch)"
+title: "Automaten, formale Sprachen und Entscheidbarkeit"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs1/afe/afe-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](afe-summary.pdf)

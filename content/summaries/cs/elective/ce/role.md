@@ -1,9 +1,10 @@
 ---
-title: "Robot Learning (english)"
+title: "Robot Learning"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/elective/ce/role/role-summary.pdf
+language: en
 ---
 
 [![Download (Light Mode)](/download.png)](role-summary.pdf)

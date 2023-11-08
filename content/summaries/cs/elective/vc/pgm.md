@@ -1,9 +1,10 @@
 ---
-title: "Probabilistic Graphical Models (english)"
+title: "Probabilistic Graphical Models"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/elective/vc/pgm/pgm-summary.pdf
+language: en
 ---
 
 [![Download (Light Mode)](/download.png)](pgm-summary.pdf)

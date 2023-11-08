@@ -1,9 +1,10 @@
 ---
-title: "Computer Netzwerke und verteilte Systeme (deutsch)"
+title: "Computer Netzwerke und verteilte Systeme"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/cnuvs/cnuvs-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](cnuvs-summary.pdf)

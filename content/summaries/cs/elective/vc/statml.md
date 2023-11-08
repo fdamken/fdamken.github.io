@@ -1,9 +1,10 @@
 ---
-title: "Statistical Machine Learning (english)"
+title: "Statistical Machine Learning"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/elective/vc/statml/statml-summary.pdf
+language: en
 ---
 
 [![Download (Light Mode)](/download.png)](statml-summary.pdf)

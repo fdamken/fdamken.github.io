@@ -1,9 +1,10 @@
 ---
-title: "Architekturen und Entwurf von Rechnersystemen (deutsch)"
+title: "Architekturen und Entwurf von Rechnersystemen"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs3/aer/aer-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](aer-summary.pdf)

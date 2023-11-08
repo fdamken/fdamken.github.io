@@ -1,9 +1,10 @@
 ---
-title: "Computersystemsicherheit (deutsch)"
+title: "Computersystemsicherheit"
 draft: false
 author: "Tim Pollandt, mit Korrekturen von Janika Krull"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs3/css-waidner/css-waidner-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](css-waidner-summary.pdf)

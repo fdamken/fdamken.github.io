@@ -1,9 +1,10 @@
 ---
-title: "Operating Systems (english)"
+title: "Operating Systems"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs5/os/os-summary.pdf
+language: en
 ---
 
 [![Download (Light Mode)](/download.png)](os-summary.pdf)

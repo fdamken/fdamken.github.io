@@ -1,9 +1,10 @@
 ---
-title: "Optimization of static and dynamic Systems (english)"
+title: "Optimization of Static and Dynamic Systems"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/elective/ce/opt/opt-summary.pdf
+language: en
 ---
 
 [![Download (Light Mode)](/download.png)](opt-summary.pdf)
@@ -12,6 +13,7 @@ pdf: https://fabian.damken.net/summaries/cs/elective/ce/opt/opt-summary.pdf
 [![Buy Me a Coffee](/kofi.png)](https://ko-fi.com/fdamken)
 
 ## Recent Changes
+- `2023-11-07` opt: fix title
 - `2023-11-07` opt: change language to english
 - `2022-07-12` In 8.1.2:  Fix Formula for lambda^dot (#8)
 - `2022-03-09` Add xstring package to fdsummary class.

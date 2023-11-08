@@ -1,9 +1,10 @@
 ---
-title: "Mathematik 2 (Analysis) (deutsch)"
+title: "Mathematik 2 (Analysis)"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs2/mathe2/mathe2-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](mathe2-summary.pdf)

@@ -1,9 +1,10 @@
 ---
-title: "Computational Engineering und Robotik (deutsch)"
+title: "Computational Engineering und Robotik"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs4/cer/cer-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](cer-summary.pdf)

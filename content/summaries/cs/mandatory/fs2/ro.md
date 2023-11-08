@@ -1,9 +1,10 @@
 ---
-title: "Rechnerorganisation (deutsch)"
+title: "Rechnerorganisation"
 draft: false
 author: "Fabian Damken"
 date: 2019-08-15
 pdf: https://fabian.damken.net/summaries/cs/mandatory/fs2/ro/ro-summary.pdf
+language: deutsch
 ---
 
 [![Download (Light Mode)](/download.png)](ro-summary.pdf)
