@@ -2,7 +2,7 @@
 title: "Probabilistic Graphical Models"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2022-02-17
 pdf: https://fabian.damken.net/summaries/cs/elective/vc/pgm/pgm-summary.pdf
 language: en
 ---

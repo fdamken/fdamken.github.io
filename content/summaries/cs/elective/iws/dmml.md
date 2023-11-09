@@ -2,7 +2,7 @@
 title: "Data Mining und Maschinelles Lernen"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2021-07-16
 pdf: https://fabian.damken.net/summaries/cs/elective/iws/dmml/dmml-summary.pdf
 language: de
 ---

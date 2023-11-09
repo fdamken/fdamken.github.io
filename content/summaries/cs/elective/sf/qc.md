@@ -2,7 +2,7 @@
 title: "Quantum Computing"
 draft: false
 author: "Fabian Damken"
-date: 2019-08-15
+date: 2022-07-12
 pdf: https://fabian.damken.net/summaries/cs/elective/sf/qc/qc-summary.pdf
 language: en
 ---
