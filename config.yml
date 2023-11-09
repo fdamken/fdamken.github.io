@@ -2,7 +2,7 @@ baseURL: "https://fabian.damken.net/"
 title: Fabian Damken
 theme: PaperMod
 
-copyright: "[Impressum](/impressum/) | [Datenschutzerklärung](/privacy/) &nbsp;---"
+copyright: "[Impressum](/impressum/) | [Privacy Policy](/privacy/) &nbsp;---"
 
 enableRobotsTXT: true
 buildDrafts: true
