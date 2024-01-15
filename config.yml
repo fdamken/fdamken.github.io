@@ -64,7 +64,7 @@ params:
 
   socialIcons:
     - name: cv
-      url: /resume.pdf
+      url: /cv.pdf
     - name: linkedin
       url: "https://linkedin.com/in/fdamken"
     - name: googlescholar
