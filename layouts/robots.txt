@@ -4,5 +4,6 @@ Disallow:
 {{- else }}
 Disallow: /
 {{- end }}
+Disallow: /hedgedoc-archive/
 Disallow: /masters-thesis/
 Sitemap: {{ "sitemap.xml" | absURL }}
