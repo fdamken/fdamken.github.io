@@ -56,7 +56,7 @@ params:
     title: Fabian Damken
     imageUrl: me.jpg
     imageWidth: 500
-    imageHeight: "100%"
+    imageHeight: "333"
     imageTitle: me
     buttons:
       - name: "Go to My Summaries"
