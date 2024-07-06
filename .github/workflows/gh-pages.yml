@@ -12,18 +12,18 @@ jobs:
       contents: read
     steps:
       - name: "Checkout Repository"
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           lfs: true
           submodules: true
       - name: "Set up Hugo"
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: latest
       - name: "Build"
         run: hugo --minify -e production
       - name: "Upload pages artifact"
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: public
   deploy:
@@ -37,4 +37,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: "Deploy"
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
