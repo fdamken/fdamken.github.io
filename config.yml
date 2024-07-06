@@ -78,10 +78,10 @@ params:
 
 menu:
   main:
-#    - identifier: resume
-#      name: Résumé
-#      url: /static/resume.pdf
-#      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 10
     - identifier: latex
       name: LaTeX
       url: /latex
