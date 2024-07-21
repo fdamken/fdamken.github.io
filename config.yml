@@ -78,23 +78,27 @@ params:
 
 menu:
   main:
+    - identifier: publications
+      name: Publications
+      url: /publications
+      weight: 10
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 10
+      weight: 20
     - identifier: latex
       name: LaTeX
       url: /latex
-      weight: 20
-    - identifier: proof-of-work
-      name: Proof of Work
-      url: /proof-of-work
       weight: 30
+    #- identifier: proof-of-work
+    #  name: Proof of Work
+    #  url: /proof-of-work
+    #  weight: 40
     - identifier: summaries
       name: Summaries
       url: /summaries
-      weight: 40
+      weight: 50
     - identifier: search
       name: Search
       url: /search
-      weight: 50
+      weight: 60

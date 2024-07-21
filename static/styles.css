@@ -1,7 +1,15 @@
+:root {
+    --main-width: var(--nav-width);
+}
+
 .profile img {
     border-radius: var(--radius);
     width: 100%;
     max-width: 500px;
     min-width: 150px;
     height: 100%;
+}
+
+.logo, #menu {
+    margin: 0;
 }
