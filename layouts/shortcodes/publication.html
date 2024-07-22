@@ -1,6 +1,12 @@
 <em>{{ .Get "title" }}</em> <br>
-({{ .Get "venue" | markdownify }}) {{ .Get "authors" | markdownify }}
+(<a href="{{ .Get "venue_url" }}">{{ .Get "venue_name" }}</a>)
+{{ .Get "authors" | markdownify }}
 {{ if .Get "arxiv" }}[ <a href="https://arxiv.org/abs/{{ .Get "arxiv" }}">arXiv</a> ]{{ end }}
 {{ if .Get "code" }}[ <a href="{{ .Get "code" }}">Code</a> ]{{ end }}
 {{ if .Get "openreview" }}[ <a href="https://openreview.net/forum?id={{ .Get "openreview" }}">OpenReview</a> ]{{ end }}
 {{ if .Get "paper" }}[ <a href="{{ .Get "paper" }}">Paper</a> ]{{ end }}
+
+<details>
+    <summary>Abstract</summary>
+    {{ .Inner | markdownify }}
+</details>
