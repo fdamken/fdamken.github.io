@@ -8,7 +8,7 @@ draft: false
     authors="K. Vida*, **F. Damken***, A. Lauscher"
     venue_name="AIES 2024"
     venue_url="https://www.aies-conference.com/2024/"
-    paper="/publications/vida2024decoding.pdf"
+    arxiv="2407.15184"
     code="https://github.com/fdamken/decoding_multilingual_moral_preferences" >}}
 Large language models (LLMs) increasingly find their way into the most diverse areas of our everyday lives. They indirectly influence people's decisions or opinions through their daily use. Therefore, understanding how and which moral judgements these LLMs make is crucial. However, morality is not universal and depends on the cultural background. This raises the question of  whether these cultural preferences are also reflected in LLMs when prompted in different languages or whether moral decision-making is consistent across different languages. So far, most research has focused on investigating the inherent values of LLMs in English. While a few works conduct multilingual analyses of moral bias in LLMs in a multilingual setting, these analyses do not go beyond atomic actions. To the best of our knowledge, a multilingual analysis of moral bias in dilemmas has not yet been conducted.
 
