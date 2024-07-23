@@ -5,7 +5,7 @@ draft: false
 
 {{< publication
     title="Decoding Multilingual Moral Preferences: Unveiling LLM's Biases Through the Moral Machine Experiment"
-    authors="K. Vida*, **F. Damken***, A. Lauscher"
+    authors="[K. Vida](https://www.bwl.uni-hamburg.de/en/ds/team/vida.html)\*, **[F. Damken](https://fabian.damken.net/)**\*, [A. Lauscher](https://anne-lauscher.de/)"
     venue_name="AIES 2024"
     venue_url="https://www.aies-conference.com/2024/"
     paper="/publications/vida2024decoding.pdf"
@@ -19,7 +19,7 @@ To address this, our paper builds on the moral machine experiment (MME) to inves
 
 {{< publication
     title="STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent"
-    authors="Y. Lee, Y. Huang, K. M. Jatavallabhula, A. Li, **F. Damken**, E. Heiden, K. Smith, D. Nowrouzezahrai, F. Ramos, F. Shkurti"
+    authors="[Y. Lee](https://yewon-lee.github.io/), [P. Huang](https://philip-huang.github.io/), [K. M. Jatavallabhula](https://krrish94.github.io/), [A. Li](https://andrewzl.github.io/), **[F. Damken](https://fabian.damken.net/)**, [E. Heiden](https://eric-heiden.com/), [K. Smith](https://www.mit.edu/~k2smith/), [D. Nowrouzezahrai](http://www.cim.mcgill.ca/~derek/), [F. Ramos](https://fabioramos.github.io/), [F. Shkurti](https://www.cs.toronto.edu/~florian/)"
     venue_name="CoRL 2023 -- LEAP Workshop"
     venue_url="https://leap-workshop.github.io/leap2023.html"
     arxiv="2310.01775"
