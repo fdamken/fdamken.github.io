@@ -74,7 +74,7 @@ params:
     - name: stackoverflow
       url: "https://stackoverflow.com/users/4907452"
     - name: email
-      url: "mailto:fabian@damken.net?subject=Contact via fabian.damken.net&body=Hi%20Fabian%2C%0A%0A%E2%80%A6"
+      url: "mailto:f.damken@utwente.nl?subject=Contact via fabian.damken.net&body=Hello%20Fabian%2C%0A%0A%E2%80%A6"
 
 menu:
   main:
