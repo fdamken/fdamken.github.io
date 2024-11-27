@@ -3,8 +3,10 @@
 {{ .Get "authors" | markdownify }}
 {{ if .Get "arxiv" }}[ <a href="https://arxiv.org/abs/{{ .Get "arxiv" }}">arXiv</a> ]{{ end }}
 {{ if .Get "code" }}[ <a href="{{ .Get "code" }}">Code</a> ]{{ end }}
+{{ if .Get "doi" }}[ <a href="https://doi.org/{{ .Get "doi" }}">DOI</a> ]{{ end }}
 {{ if .Get "openreview" }}[ <a href="https://openreview.net/forum?id={{ .Get "openreview" }}">OpenReview</a> ]{{ end }}
-{{ if .Get "paper" }}[ <a href="{{ .Get "paper" }}">Paper</a> ]{{ end }}
+{{ if .Get "full_text_pdf" }}[ <a href="{{ .Get "full_text_pdf" }}">Full Text PDF</a> ]{{ end }}
+{{ if .Get "proceedings" }}[ <a href="{{ .Get "proceedings" }}">Proceedings</a> ]{{ end }}
 
 <details>
     <summary>Abstract</summary>
