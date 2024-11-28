@@ -5,12 +5,15 @@ robotsNoIndex: true
 ---
 
 ## Angaben gemäß § 5 TMG
-Fabian Damken {{< line_break >}}
-Weidigweg 18 {{< line_break >}}
-64297 Darmstadt
+[Department of Applied Mathematics](https://www.utwente.nl/en/eemcs/damut/) {{< line_break >}}
+Zilverling (Building 11), Room 2086 {{< line_break >}}
+[Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS)](https://www.utwente.nl/en/eemcs/) {{< line_break >}}
+[University of Twente](https://www.utwente.nl/en/) {{< line_break >}}
+Hallenweg 19 {{< line_break >}}
+7522 NH Enschede {{< line_break >}}
+Netherlands
 
 ## Kontakt
-Telefon: +49 1575 6124226 {{< line_break >}}
-E-Mail: webmaster@frisp.org {{< line_break >}}
+E-Mail: webmaster@damken.net {{< line_break >}}
 
 Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
