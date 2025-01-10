@@ -63,14 +63,14 @@ params:
   socialIcons:
     - name: cv
       url: /cv.pdf
-    - name: linkedin
-      url: "https://linkedin.com/in/fdamken"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=EM-y6hYAAAAJ"
+    - name: bluesky
+      url: "https://bsky.app/profile/fdamken.bsky.social"
+    - name: linkedin
+      url: "https://linkedin.com/in/fdamken"
     - name: github
       url: "https://github.com/fdamken"
-    - name: twitter
-      url: "https://twitter.com/fabian_damken"
     - name: stackoverflow
       url: "https://stackoverflow.com/users/4907452"
     - name: email
