@@ -66,7 +66,7 @@ params:
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=EM-y6hYAAAAJ"
     - name: bluesky
-      url: "https://bsky.app/profile/fdamken.bsky.social"
+      url: "https://bsky.app/profile/fabian.damken.net"
     - name: linkedin
       url: "https://linkedin.com/in/fdamken"
     - name: github
